@@ -1,0 +1,37 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  background-size: contain;
+  justify-content: center;
+  background-image: url("/untitled%20presentation.svg");
+  background-position: center;
+}
+ 
+.home-navlink1 {
+  top: 101px;
+  left: 64px;
+  color: rgba(25, 24, 24, 0);
+  width: 109px;
+  height: 122px;
+  position: absolute;
+  padding-top: 0px;
+  border-color: rgba(25, 24, 24, 0);
+  padding-left: 0px;
+  text-decoration: none;
+}
+ 
+.home-navlink2 {
+  top: 487px;
+  left: 68px;
+  color: rgba(25, 24, 24, 0);
+  width: 109px;
+  height: 122px;
+  position: absolute;
+  padding-top: 0px;
+  border-color: rgba(25, 24, 24, 0);
+  padding-left: 0px;
+  text-decoration: none;
+}
